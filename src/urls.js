@@ -6,5 +6,21 @@ export default [
   {
     name: 'traQ v2 API',
     url: 'https://raw.githubusercontent.com/traPtitech/traQ/master/docs/swagger.yaml'
+  },
+  {
+    name: 'booQ',
+    url: 'https://raw.githubusercontent.com/traPtitech/booQ/master/docs/swagger.yml'
+  },
+  {
+    name: 'anke-to',
+    url: 'https://raw.githubusercontent.com/traPtitech/anke-to/master/docs/swagger/swagger.yaml'
+  },
+  {
+    name: 'knoQ',
+    url: 'https://raw.githubusercontent.com/traPtitech/knoQ/master/docs/swagger.yaml'
+  },
+  {
+    name: 'Jomon',
+    url: 'https://raw.githubusercontent.com/traPtitech/Jomon/master/docs/swagger.yaml'
   }
 ]
