@@ -22,5 +22,9 @@ export default [
   {
     name: 'Jomon',
     url: 'https://raw.githubusercontent.com/traPtitech/Jomon/master/docs/swagger.yaml'
+  },
+  {
+    name: 'traPortfolio',
+    url: 'https://raw.githubusercontent.com/traPtitech/traPortfolio/master/docs/swagger/traPortfolio.v1.yaml'
   }
 ]
