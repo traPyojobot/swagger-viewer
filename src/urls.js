@@ -26,5 +26,9 @@ export default [
   {
     name: 'traPortfolio',
     url: 'https://raw.githubusercontent.com/traPtitech/traPortfolio/master/docs/swagger/traPortfolio.v1.yaml'
+  },
+  {
+    name: 'Emoine',
+    url: 'https://raw.githubusercontent.com/traPtitech/Emoine/master/docs/openapi.yml'
   }
 ]
