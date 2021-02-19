@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "swagger-ui": "^3.43.0",
-    "swagger-ui-dist": "^3.43.0",
     "swagger-ui-plugin-enum-names": "^1.0.0"
   }
 }
