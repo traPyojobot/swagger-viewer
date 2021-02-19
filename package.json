@@ -7,10 +7,10 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.0.0"
+    "vite": "^2.0.1"
   },
   "dependencies": {
     "swagger-ui": "^3.43.0",
-    "swagger-ui-plugin-enum-names": "^1.0.0"
+    "swagger-ui-plugin-enum-names": "^1.0.1"
   }
 }
