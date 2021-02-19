@@ -1,0 +1,17 @@
+{
+  "name": "swagger-viewer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  },
+  "dependencies": {
+    "swagger-ui": "^3.43.0",
+    "swagger-ui-dist": "^3.43.0",
+    "swagger-ui-plugin-enum-names": "^1.0.0"
+  }
+}
