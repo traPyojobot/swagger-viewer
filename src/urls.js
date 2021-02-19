@@ -28,6 +28,10 @@ export default [
     url: 'https://raw.githubusercontent.com/traPtitech/traPortfolio/master/docs/swagger/traPortfolio.v1.yaml'
   },
   {
+    name: 'traP Collection',
+    url: 'https://raw.githubusercontent.com/traPtitech/trap-collection-server/develop/docs/swagger/openapi.yml'
+  },
+  {
     name: 'Emoine',
     url: 'https://raw.githubusercontent.com/traPtitech/Emoine/master/docs/openapi.yml'
   }
