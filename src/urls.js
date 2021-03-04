@@ -32,6 +32,10 @@ export default [
     url: 'https://raw.githubusercontent.com/traPtitech/trap-collection-server/develop/docs/swagger/openapi.yml'
   },
   {
+    name: 'NeoShowcase',
+    url: 'https://raw.githubusercontent.com/traPtitech/NeoShowcase/master/api/http/swagger.yaml'
+  },
+  {
     name: 'Emoine',
     url: 'https://raw.githubusercontent.com/traPtitech/Emoine/master/docs/openapi.yml'
   }
